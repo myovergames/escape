@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "githubio.data.unityweb",
+"asmCodeUrl": "githubio.asm.code.unityweb",
+"asmMemoryUrl": "githubio.asm.memory.unityweb",
+"asmFrameworkUrl": "githubio.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
